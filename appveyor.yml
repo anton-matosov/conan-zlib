@@ -6,7 +6,6 @@ environment:
     PYTHON_ARCH: "32"
 
     CONAN_REFERENCE: "zlib/1.2.11"
-    CONAN_UPLOAD: "https://api.bintray.com/conan/anton-matosov/general"
     CONAN_USERNAME: "anton-matosov"
     CONAN_CHANNEL: "testing"
     VS150COMNTOOLS: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\Common7\\Tools\\"
