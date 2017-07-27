@@ -1,3 +1,4 @@
+     - CONAN_UPLOAD_ONLY_WHEN_STABLE: 1 # Will only upload when the branch matches "release/*"
 os: linux
 services:
   - docker
